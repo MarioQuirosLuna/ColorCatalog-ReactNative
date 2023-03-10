@@ -34,6 +34,7 @@ const styles = StyleSheet.create({
         flexDirection: "row",
         alignItems: "center",
         backgroundColor: "white",
+        paddingHorizontal: 10,
     },
     textInput: {
         flex: 1,
